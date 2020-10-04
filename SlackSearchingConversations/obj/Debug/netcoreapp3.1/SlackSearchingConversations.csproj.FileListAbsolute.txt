@@ -1,0 +1,15 @@
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.exe
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.deps.json
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.runtimeconfig.json
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.runtimeconfig.dev.json
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.dll
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SlackSearchingConversations.pdb
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.AssemblyInfo.cs
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.dll
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.pdb
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.genruntimeconfig.cache
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SlackSearchingConversations.csproj.CopyComplete

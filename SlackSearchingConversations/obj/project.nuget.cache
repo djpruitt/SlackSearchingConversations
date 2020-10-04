@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYDU07N02FENsbQtSpPYptj1rJJcstnc/6ob2zoAzwj7eiUj8WHA45FH07lEX5Y3vdksaYjdETnbvWX0p4YxLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danny\\source\\repos\\ConsoleApp2\\ConsoleApp2\\SlackSearchingConversations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danny\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
